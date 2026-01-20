@@ -24,7 +24,7 @@
 ## Purpose
 	The purpose of this project is to create a digital simulation of a guitar that allows the user to play by interacting with the keyboard. As the user interacts with the keyboard(q2we4r5ty7u8i9op-[=zxdcfvgbnjmk,.;/' ) it will play a note. 
 
-##Classes
+## Classes
 	GuitarHero:
 		Constructs a guitar object that allows the user to play. 
 		The infinity loop will continue to play until the user leaves the loop.
